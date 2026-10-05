@@ -13,7 +13,7 @@ Hide interface (PC) - press H to hide the entire HUD (info panel, hotbar, health
 🔧 Changes
 Version is now 1.7_P1.1 - visible in the main menu, the info panel, and the multiplayer window.
 
-Multiplayer is no longer compatible with other versions — only 1.7_P1.1 players can connect to each other. Older (1.7_P1 and below) and newer builds are rejected with an "Incompatible version" message. This prevents desync, missing blocks, and crashes when mixing versions.
+Multiplayer is no longer compatible with other versions - only 1.7_P1.1 players can connect to each other. Older (1.7_P1 and below) and newer builds are rejected with an "Incompatible version" message. This prevents desync, missing blocks, and crashes when mixing versions.
 
 Drop slot moved - the 🗑 "Drop item" slot now sits under the crafting grid in the inventory, instead of under the hotbar. On phones, it now fits on screen.
 
