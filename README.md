@@ -22,6 +22,8 @@ Map controls fixed - the arrow buttons now form a proper cross (▲ over ◀ ▼
 Full interface translation - previously the game only had Russian text. Now every label, button, tooltip, and status message has an English version.
 
 
+
 HTMLCRAFT 1.7_P1
 Released: 2026-09-05
+
 First published version.
